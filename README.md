@@ -7,6 +7,14 @@ placementdata.csv — 10,000 students, 12 features
 
 ---
 
+## 🚀 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://studentperformanceanalytics-gpp4mlpprg3a79m3vvsj3n.streamlit.app/)
+
+👉 **[https://studentperformanceanalytics-gpp4mlpprg3a79m3vvsj3n.streamlit.app/](https://studentperformanceanalytics-gpp4mlpprg3a79m3vvsj3n.streamlit.app/)**
+
+---
+
 ## Problem Statement
 
 Campus placement outcomes depend on a combination of academic performance, aptitude, soft skills, and extracurricular engagement. This project builds a binary classification system to predict whether a student will be placed or not placed, using machine learning applied to a structured student dataset.
